@@ -14,8 +14,14 @@
 
 ```markdown
 更新记录：2021-03-28
-更新内容：完成一个前后端分离的小项目学习，更新Linux、Vue笔记
+更新内容：完成一个前后端分离的小项目学习，更新Linux笔记
 版本记录：v1.0.1
+```
+
+```markdown
+更新记录：2021-03-30
+更新内容：学习IDEA的Debug调试，为以后阅读源码做好准备
+版本记录：v1.0.2
 ```
 
 ## 文章目录
@@ -30,7 +36,8 @@
 - [Java多线程](JavaSE/multithreading.md)
 - [JavaIO](JavaSE/io.md)
 - [Java网络编程](JavaSE/websocket.md)
-
+## [IDEA](Idea/DeBug.md)
+* [程序入门调试-学会Debug调试程序](Idea/DeBug.md)
 ## [Spring](Spring/basic.md)
 
 * 项目笔记
