@@ -419,7 +419,7 @@ public class ThreadStopDemo {
 
 stop和interrupt的区别在于是否有程序终止掉，调用stop方法后，线程休眠会中断，但同时程序也会终止；调用interrupt方法后线程休眠也会中断同时还会抛出异常，但是程序不会终止。上面的例子如果调用interrupt会输`线程被终止了`和`结束执行`正面程序不是中断
 
-### 2.6线程的生命周期interrupt
+### 2.6线程的生命周期
 
 - 新建
 - 就绪
