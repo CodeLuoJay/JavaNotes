@@ -4,6 +4,11 @@
 
 同时也算是备战工作面试题的一种累积，每个项目学习都希望能总结一下学到的东西，作为沉淀来积累面试题答案。
 
+如果想要获取更好的阅读体验，可以转到电子书版查看，国内可以选择gitee的速度比较快
+[Github电子书版](https://codeluojay.github.io/JavaNotes/)
+[Gitee电子书版](https://codeluojay.gitee.io/javanotes)
+
+
 ## 更新记录
 
 ```markdown
@@ -23,6 +28,11 @@
 更新内容：学习IDEA的Debug调试，为以后阅读源码做好准备
 版本记录：v1.0.2
 ```
+```markdown
+更新记录：2021-04-11
+更新内容：补充最新重新学习多线程的笔记
+版本记录：v1.0.3
+```
 
 ## 文章目录
 
@@ -36,7 +46,7 @@
 - [Java多线程](docs/JavaSE/multithreading.md)
 - [JavaIO](JavaSE/io.md)
 - [Java网络编程](JavaSE/websocket.md)
-## [IDEA](Idea/DeBug.md)
+## [IDEA](docs/Idea/DeBug.md)
 * [程序入门调试-学会Debug调试程序](docs/Idea/DeBug.md)
 ## [Spring](Spring/basic.md)
 
