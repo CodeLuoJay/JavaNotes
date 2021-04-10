@@ -28,16 +28,16 @@
 
 ## [Java基础](JavaSE/basic.md)
 
-- [Java基础语法](JavaSE/basic.md)
+- [Java基础语法](docs/JavaSE/basic.md)
 - [Java三大特性](JavaSE/characteristic.md)
 - [Java包装和异常](JavaSE/exception.md)
 - [Java容器](JavaSE/container.md)
 - [Java并发](JavaSE/concurrent.md)
-- [Java多线程](JavaSE/multithreading.md)
+- [Java多线程](docs/JavaSE/multithreading.md)
 - [JavaIO](JavaSE/io.md)
 - [Java网络编程](JavaSE/websocket.md)
 ## [IDEA](Idea/DeBug.md)
-* [程序入门调试-学会Debug调试程序](Idea/DeBug.md)
+* [程序入门调试-学会Debug调试程序](docs/Idea/DeBug.md)
 ## [Spring](Spring/basic.md)
 
 * 项目笔记
