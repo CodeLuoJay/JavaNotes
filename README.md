@@ -33,6 +33,11 @@
 更新内容：补充最新重新学习多线程的笔记
 版本记录：v1.0.3
 ```
+```markdown
+更新记录：2021-04-21
+更新内容：补充一下最近工作中踩过的坑
+版本记录：v1.0.4
+```
 
 ## 文章目录
 
@@ -48,6 +53,8 @@
 - [Java网络编程](JavaSE/websocket.md)
 ## [IDEA](docs/Idea/DeBug.md)
 * [程序入门调试-学会Debug调试程序](docs/Idea/DeBug.md)
+## [Work](docs/Work/工作中常用记录总结列表.md)
+* [工作中常用的记录清单](docs/Work/工作中常用记录总结列表.md)
 ## [Spring](Spring/basic.md)
 
 * 项目笔记
