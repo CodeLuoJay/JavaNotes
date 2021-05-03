@@ -60,7 +60,7 @@
 * [程序入门调试-学会Debug调试程序](docs/Idea/DeBug.md)
 ## [Work](docs/Work/工作中常用记录总结列表.md)
 * [工作中常用的记录清单](docs/Work/工作中常用记录总结列表.md)
-* [工作中工具类使用一](docs/Work/Lombok使用介绍.md)
+* [工作中常用工具类-Lombok插件使用](docs/Work/Lombok使用介绍.md)
 ## [Spring](Spring/basic.md)
 
 * 项目笔记
