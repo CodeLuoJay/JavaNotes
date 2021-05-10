@@ -61,7 +61,7 @@
 ## [Work](Work/工作中常用记录总结列表.md)
 * [工作中常用的记录清单](Work/工作中常用记录总结列表.md)
 * [工作中常用工具类-Lombok插件使用](Work/Lombok使用介绍.md)
-* [工作中常用工具类-Lombok插件使用](Work/Hutool.md)
+* [工作中常用工具类-Hutool插件使用](Work/Hutool.md)
 ## [Spring](Spring/basic.md)
 
 * 项目笔记
