@@ -44,6 +44,17 @@
 版本记录：v1.0.5
 ```
 
+```markdown
+更新记录：2021-05-10
+更新内容：学习工作中使用到工具类Hutool
+版本记录：v1.0.6
+```
+```markdown
+更新记录：2021-06-06
+更新内容：学习Mysql的索引理论知识
+版本记录：v1.0.7
+```
+
 ## 文章目录
 
 ## [Java基础](JavaSE/basic.md)
@@ -82,7 +93,7 @@
 
 ## [MySQL](MySQL/basic.md)
 
-* 项目笔记
+* [MySQL索引](docs/MySQL/highLevel/MySql索引.md)
 * 补充知识
 * 面试题案
 
